@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Numberprogressbar_AwesomeProgressBar</string>
+
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="finish">ProgressBar is finished.</string>
+
+</resources>
